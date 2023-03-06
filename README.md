@@ -4,17 +4,16 @@
 - 📚 Estudante de Ciência da Computação na UFES
 - 🏃 Maratonista de programação
 
-##
+## Você pode me encontrar em:
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matheusmilanese)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.pixels/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MatheusMilanese)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-milanese-198a541a3/)
 
-[![Matheus Milanese's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMilanese&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Tecnologias que eu uso no meu dia
+## Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block">
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
